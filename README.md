@@ -12,6 +12,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Polymer glove controls remapped to left controller.
 * Disable enemy knockback.
 * Camera fixes for menus and cutscenes.
+* VR fixes for climbing.
 * Roomscale movement.
 * Remove vignettes.
 * Volumetric cloud fix.
