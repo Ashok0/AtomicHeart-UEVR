@@ -32,7 +32,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * [**Unused Dialogues**](https://www.nexusmods.com/atomicheart/mods/147): Restores 199 dialogue lines removed in patch 1.6.0.0 due to complaints about excessive chatter. Brings back short interactions and some plot-relevant dialogue between the protagonist and assistant, aiming to restore the original experience. Works with all languages.
 
 ## Configuration
-* The VR mod defaults to Left Controller based movement orientation.  If you wish to use HMD based movement, open 'AtomicHeart_VRFix.lua' and change line 5 to: *local MOVEMENT_ORIENTATION = "3"*
+* The VR mod defaults to Left Controller based movement orientation.  If you wish to use HMD based movement, open 'AtomicHeart_VRFix.lua' and change line 5 to: *local MOVEMENT_ORIENTATION = "1"*
 
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
