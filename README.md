@@ -30,8 +30,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
 2) The Midas Glove Skin DLC will break floating hands.
-3) Hand meshes are misaligned in worldspace during animations.
-4) Some button prompts are incorrect.
+3) Some button prompts are incorrect.
 
 ## Credits
 Special thanks to Praydog, Gwizdek, Pande4360, DJ, and Jbusfield.
