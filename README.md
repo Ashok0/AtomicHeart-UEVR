@@ -24,6 +24,9 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 4) Launch Atomic Heart.  Select 'Options' > 'Additional Content' > 'Activate Glove Reskin' and select "Standard".  The Gold Midas Glove does not work properly with this VR mod.
 5) Inject the game with UEVR!
 
+## Configuration
+* The VR mod defaults to Left Controller based movement orientation.  If you wish to use HMD based movement, open 'AtomicHeart_VRFix.lua' and change line 5 to: *local MOVEMENT_ORIENTATION = "3"*
+
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
 2) The Midas Glove Skin DLC will break floating hands.
