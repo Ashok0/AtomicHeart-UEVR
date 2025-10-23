@@ -14,7 +14,8 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Camera fixes for menus and cutscenes.
 * Roomscale movement.
 * Remove vignettes.
-* 3D Audio fix.
+* Volumetric cloud fix.
+* 3D audio fix.
 * World map fix.
 
 ## Installation
