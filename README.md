@@ -26,7 +26,9 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 5) Inject the game with UEVR!
 
 ## Recommended Mods
-* [**UETools**](https://www.nexusmods.com/atomicheart/mods/9): UETools is a powerful mod that brings Developer's tools back in to the game! Useful for spawning in weapons and inventory items.
+* [**UETools**](https://www.nexusmods.com/atomicheart/mods/9): UETools is a powerful mod that brings the developer console back into the game.
+* [**Smaller UI and Transparent Inventory Background**](https://www.nexusmods.com/atomicheart/mods/47): Recommend installing "zAHInvBckgr_P" to makes the inventory background 50% transparent.
+* [**Unused Dialogues**](https://www.nexusmods.com/atomicheart/mods/147): Restores 199 dialogue lines removed in patch 1.6.0.0 due to complaints about excessive chatter. Brings back short interactions and some plot-relevant dialogue between the protagonist and assistant, aiming to restore the original experience. Works with all languages.
 
 ## Configuration
 * The VR mod defaults to Left Controller based movement orientation.  If you wish to use HMD based movement, open 'AtomicHeart_VRFix.lua' and change line 5 to: *local MOVEMENT_ORIENTATION = "3"*
