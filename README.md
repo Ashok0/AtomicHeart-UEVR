@@ -13,14 +13,16 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Disable enemy knockback.
 * Camera fixes for menus and cutscenes.
 * Roomscale movement.
-* 3D Audio support.
-* World map fixes.
+* Remove vignettes.
+* 3D Audio fix.
+* World map fix.
 
 ## Installation
 1) Install the nightly build of UEVR from [**HERE**](https://github.com/praydog/UEVR-nightly/releases).
 2) Download the latest release of the Atomic Heart UEVR plugin from [**HERE**]. Click "Import Config" in the UEVR UI and navigate to "AtomicHeart-Win64-Shipping.zip" (make sure the filename does not have any numbers in it) and click on it.
 3) Navigate to UEVR > Open Global Dir > AtomicHeart-Win64-Shipping > game_folder_files. Move all .pak files to the Atomic Heart \Paks\ folder i.e. C:\Program Files (x86)\Steam\steamapps\common\Atomic Heart\AtomicHeart\Content\Paks
-4) Launch Atomic Heart and inject the game with UEVR!
+4) Launch Atomic Heart.  Select 'Options' > 'Additional Content' > 'Active Glove Reskin' and select "Standard".  The Gold Midas Glove does not work properly with this VR mod.
+5) Inject the game with UEVR!
 
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
