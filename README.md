@@ -4,9 +4,10 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 ## VR Mod Features
 * 6DOF motion controls.
 * Adjusted weapon positions.
+* Melee weapons rescaled for VR.
 * ADS support.  Projectiles are aligned with gun sights.
 * Physical melee.
-* Floating hands. When holding one-handed items, the off-handed arm is hidden.
+* Floating hands. When inactive, the off-handed arm is temporarily hidden.
 * Smooth locomotion. No head bobbing or gun bobbing.
 * Activating the Polymer glove will temporarily switch motion controls to the left hand.
 * Polymer glove controls remapped to left controller.
