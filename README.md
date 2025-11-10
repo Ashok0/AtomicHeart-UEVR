@@ -35,6 +35,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 
 ## Configuration
 * The VR mod defaults to Left Controller based movement orientation.  If you wish to use HMD based movement, open 'AtomicHeart_VRFix.lua' and change line 5 to: *local MOVEMENT_ORIENTATION = "1"*
+* The left hand model is hidden by default when two handed weapons are equipped.  If you prefer playing with the original two handed models, open 'AtomicHeart_VRFix.lua' and change line 6 to: *local TWO_HANDED_MODELS = true*
 * If you wish to reduce intense camera movements during cutscenes (this may cause you to face the wrong direction), open 'AtomicHeart_VRFix.lua' and change line 7 to: *local CUTSCENE_LERP = true*
 
 ## Known Issues
