@@ -16,6 +16,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * VR fixes for climbing.
 * Roomscale movement.
 * Remove vignettes.
+* Remove crosshair.
 * Volumetric cloud fix.
 * 3D audio fix.
 * World map fix.
@@ -34,6 +35,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 
 ## Configuration
 * The VR mod defaults to Left Controller based movement orientation.  If you wish to use HMD based movement, open 'AtomicHeart_VRFix.lua' and change line 5 to: *local MOVEMENT_ORIENTATION = "1"*
+* If you wish to reduce intense camera movements during cutscenes (this may cause you to face the wrong direction), open 'AtomicHeart_VRFix.lua' and change line 7 to: *local CUTSCENE_LERP = true*
 
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
