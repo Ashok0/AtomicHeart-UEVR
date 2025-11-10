@@ -8,7 +8,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * ADS support.  Projectiles are aligned with gun sights.
 * Physical melee.
 * Floating hands. When inactive, the off-handed arm is temporarily hidden.
-* Smooth locomotion. No head bobbing or gun bobbing.
+* Smooth locomotion. No gun bobbing.
 * Activating the Polymer glove will temporarily switch motion controls to the left hand.
 * Polymer glove controls remapped to left controller.
 * Disable enemy knockback.
