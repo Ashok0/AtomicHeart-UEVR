@@ -54,6 +54,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Menu: Main Menu
 * Menu (Hold >2s): Inventory HUD
 * LT: Heavy Melee / Charge Weapon
+* LT (Hold >3s): Toggle UI
 * RT: Heavy Melee / Fire
 * {Physical Swinging}: Light Melee
 * LG: Ability 2
