@@ -15,8 +15,8 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Camera fixes for menus and cutscenes.
 * VR fixes for climbing.
 * Roomscale movement.
-* Remove vignettes.
-* Remove crosshair.
+* Vignettes removed.
+* Crosshair removed.
 * Volumetric cloud fix.
 * 3D audio fix.
 * World map fix.
@@ -61,7 +61,6 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Dpad (Right Thumbrest) + LS (L<>R): Cycle Weapons
 * Dpad (Right Thumbrest) + LS (U): Cycle Abilities
 * Dpad (Right Thumbrest) + LS (D): Use Consumable
-* Cartridge Menu: ?
 
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
