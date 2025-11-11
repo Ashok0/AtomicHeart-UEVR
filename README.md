@@ -38,6 +38,27 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * The left hand model is hidden by default when two handed weapons are equipped.  If you prefer playing with the original two handed models, open 'AtomicHeart_VRFix.lua' and change line 6 to: *local TWO_HANDED_MODELS = true*
 * If you wish to reduce intense camera movements during cutscenes (this may cause you to face the wrong direction), open 'AtomicHeart_VRFix.lua' and change line 7 to: *local CUTSCENE_LERP = true*
 
+## Controls for VR
+* LS: Move
+* LS (Dn): Crouch
+* RS: Turn
+* Y: Primary Force Power
+* X: Polymer Glove / Interact
+* X+X (Double Tap): Scan
+* B: Reload / Back
+* B (Hold >1s): Radial Menu
+* A: Jump / Select
+* Menu: Main Menu
+* Menu (Hold >2s): HUD
+* LT: Heavy Melee / Charge Weapon
+* RT: Heavy Melee / Fire
+* {Physical Swinging}: Light Melee
+* LG: Secondary Force Power
+* RG + LS: Dodge 
+* Dpad (Right Thumbrest) + LS (L<>R): Cycle Weapons
+* Dpad (Right Thumbrest) + LS (U): Cycle Force Powers
+* Dpad (Right Thumbrest) + LS (D): Use Healing Items
+
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
 2) The player's upper arms bones are not hidden when playing the DLC.
