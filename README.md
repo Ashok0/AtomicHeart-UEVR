@@ -42,22 +42,24 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * LS: Move
 * LS (Dn): Crouch
 * RS: Turn
-* Y: Primary Force Power
+* Y: Shock
 * X: Polymer Glove / Interact
-* X+X (Double Tap): Scan
+* Right Controller Aim + X: Ability 1
+* X+X (Double Tap): Scanning
 * B: Reload / Back
 * B (Hold >1s): Radial Menu
 * A: Jump / Select
 * Menu: Main Menu
-* Menu (Hold >2s): HUD
+* Menu (Hold >2s): Inventory HUD
 * LT: Heavy Melee / Charge Weapon
 * RT: Heavy Melee / Fire
 * {Physical Swinging}: Light Melee
-* LG: Secondary Force Power
+* LG: Ability 2
 * RG + LS: Dodge 
 * Dpad (Right Thumbrest) + LS (L<>R): Cycle Weapons
-* Dpad (Right Thumbrest) + LS (U): Cycle Force Powers
-* Dpad (Right Thumbrest) + LS (D): Use Healing Items
+* Dpad (Right Thumbrest) + LS (U): Cycle Abilities
+* Dpad (Right Thumbrest) + LS (D): Use Consumable
+* Cartridge Menu: ?
 
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
