@@ -30,6 +30,8 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 4) Launch Atomic Heart.  Select 'Options' > 'Additional Content' > 'Activate Glove Reskin' and select "Standard".  The Gold Midas Glove does not work properly with this VR mod.
 5) Inject the game with UEVR!
 
+* Note: There are no hands during the intro.  You won't see both hands until you pickup the axe.
+
 ## Recommended Mods
 * [**UETools**](https://www.nexusmods.com/atomicheart/mods/9): UETools is a powerful mod that brings the developer console back into the game.
 * [**Smaller UI and Transparent Inventory Background**](https://www.nexusmods.com/atomicheart/mods/47): Recommend installing "zAHInvBckgr_P" to makes the inventory background 50% transparent.
