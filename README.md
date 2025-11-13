@@ -27,7 +27,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 1) Install the nightly build of UEVR from [**HERE**](https://github.com/praydog/UEVR-nightly/releases).
 2) Download the latest Atomic Heart UEVR plugin from [**HERE**](https://github.com/Ashok0/AtomicHeart-UEVR/releases/latest).  Click "Import Config" in the UEVR UI and navigate to "AtomicHeart-Win64-Shipping.zip" (make sure the filename does not have any numbers in it) and click on it.
 3) Navigate to UEVR > Open Global Dir > AtomicHeart-Win64-Shipping > game_folder_files. Move all .pak files to the Atomic Heart Paks folder i.e. C:\Program Files (x86)\Steam\steamapps\common\Atomic Heart\AtomicHeart\Content\Paks
-4) Launch Atomic Heart.  Select 'Options' > 'Additional Content' > 'Activate Glove Reskin' and select "Standard".  The Gold Midas Glove does not work properly with this VR mod.
+4) Launch Atomic Heart.  Select 'Options' > 'Additional Content' > 'Activate Glove Reskin' and select "Standard".  The Gold Midas Glove does not work properly with this VR mod. (Skip this step if you did not purchase the DLC)
 5) Inject the game with UEVR!
 
 * Note: There are no hands during the intro.  You won't see both hands until you pickup the axe.
