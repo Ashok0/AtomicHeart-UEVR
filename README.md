@@ -66,6 +66,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Dpad (Right Thumbrest) + LS (L<>R): Cycle Weapons
 * Dpad (Right Thumbrest) + LS (U): Cycle Abilities
 * Dpad (Right Thumbrest) + LS (D): Use Consumable
+* Dpad (Right Thumbrest) + LS (U<>D): Scroll
 
 ## Known Issues
 1) The cursor is slightly misaligned when using Nora and Lock puzzles.
