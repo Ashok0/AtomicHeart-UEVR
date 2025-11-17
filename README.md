@@ -75,6 +75,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 3) The Midas Glove Skin DLC will break floating hands.
 4) Some button prompts are incorrect.
 5) Your head will clip through the ceiling in tunnels.
+6) Telekinesis can be finicky.  It is best to aim at the object you with to move with your right hand before activating Telekinesis. 
 * If motion controls ever break (hopefully this never happens), you should be able to fix the VR mod by resetting the Lua Script from the UEVR overlay.  Tick "Show Advanced Options" and select "Reset scripts" under LuaLoader > Main. 
 
 ## Credits
