@@ -30,8 +30,9 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 4) Launch Atomic Heart.  Select 'Options' > 'Additional Content' > 'Activate Glove Reskin' and select "Standard".  The Gold Midas Glove does not work properly with this VR mod. (Skip this step if you did not purchase the DLC)
 5) Inject the game with UEVR!
 
+* Puzzles do not work well in VR due to the broken cursor.  Recommend disabling them from the main menu by selecting Options > Gameplay > Puzzles Auto-Solve.
 * Note: There are no hands during the intro.  You won't see both hands until you pickup the axe.
-
+  
 ## Recommended Mods
 * [**UETools**](https://www.nexusmods.com/atomicheart/mods/9): UETools is a powerful mod that brings the developer console back into the game.
 * [**Smaller UI and Transparent Inventory Background**](https://www.nexusmods.com/atomicheart/mods/47): Recommend installing "zAHInvBckgr_P" to makes the inventory background 50% transparent.
@@ -73,6 +74,8 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 2) The player's upper arms bones are not hidden when playing the DLC.
 3) The Midas Glove Skin DLC will break floating hands.
 4) Some button prompts are incorrect.
+5) Your head will clip through the ceiling in tunnels.
+* If motion controls ever break (hopefully this never happens), you should be able to fix the VR mod by resetting the Lua Script from the UEVR overlay.  Tick "Show Advanced Options" and select "Reset scripts" under LuaLoader > Main. 
 
 ## Credits
 Special thanks to Praydog, Gwizdek, Pande4360, DJ, and Jbusfield.
