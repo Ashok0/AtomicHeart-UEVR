@@ -70,7 +70,7 @@ This is a hybrid Lua/PAK mod which adds various UEVR improvements/motion control
 * Dpad (Right Thumbrest) + LS (U<>D): Scroll
 
 ## Known Issues
-1) The cursor is slightly misaligned when using Nora and Lock puzzles.
+1) The cursor is slightly misaligned when using Nora and Lock puzzles. Recommend disabling puzzles from the main menu by selecting Options > Gameplay > Puzzles Auto-Solve.
 2) The player's upper arms bones are not hidden when playing the DLC.
 3) The Midas Glove Skin DLC will break floating hands.
 4) Some button prompts are incorrect.
